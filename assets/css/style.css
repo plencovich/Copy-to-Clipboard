@@ -1,0 +1,12 @@
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+  background-color: #F4F9E9;
+}
+.navbar-inverse {
+    background-color: #53D8FB;
+    border-color: #53D8FB;
+}
+.navbar-inverse .navbar-brand {
+    color: #363732;
+}
