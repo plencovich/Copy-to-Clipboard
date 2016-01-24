@@ -8,6 +8,10 @@ El siguiente `<script>` es para que el usuario con un simple click en el botón 
 
 En este caso estoy utilizando `jQuery` y `Bootstrap` para hacerlo presentable a la vista del usuario.
 
+## Demo
+
+Probar la funcionalidad en [Ver Demo](http://plencovich.github.io/Copy-to-Clipboard/)
+
 ## Instalación
 Es necesario agregar [jQuery](http://jquery.com/) y [Bootstrap](http://getbootstrap.com/)
 
@@ -52,7 +56,5 @@ Código para utilizar con un listado de `<input>` :
     });
 ```
 El archivo `tooltip.js` es para mostrar el tooltip de Bootstrap sobre el botón de `<copiar>`.
-
-
 
 [Plen.co!](https://plen.co)
