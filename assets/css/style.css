@@ -10,3 +10,19 @@ body {
 .navbar-inverse .navbar-brand {
     color: #363732;
 }
+a {
+  color: #53D8FB;
+  text-decoration: none;
+}
+a:hover, a:focus {
+  color: #363732;
+  text-decoration: none;
+}
+.label-info {
+  background-color: #53D8FB;
+}
+.label-info[href]:focus, .label-info[href]:hover {
+  color: #363732;
+  text-decoration: none;
+  background-color: #53D8FB;
+}
